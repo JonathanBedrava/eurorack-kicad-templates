@@ -78,7 +78,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 61CB005A) (tstamp 8731a6d0-c776-470f-be2e-18b612fee82f)
-    (at 7.5 130.35)
+    (at 5.08 130.35)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -101,7 +101,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 61CB005A) (tstamp aa13fc65-f545-4672-9a25-25b0be4e162e)
-    (at 114.18 130.35)
+    (at 116.52 130.35)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -124,7 +124,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 61CB0063) (tstamp d01fb9f2-b282-4994-a3f3-5c1da32a4f3f)
-    (at 114.18 3)
+    (at 116.52 3)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -147,7 +147,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 61CB0063) (tstamp e9d7dac9-cbbf-4204-819c-cc96a1f4e4ef)
-    (at 7.5 3)
+    (at 5.08 3)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -172,5 +172,14 @@
   (gr_line (start 0 133.35) (end 0 0) (layer "Edge.Cuts") (width 0.1) (tstamp 159574a9-ecec-48bb-adb0-3dc9e65d4e79))
   (gr_line (start 0 0) (end 121.6 0) (layer "Edge.Cuts") (width 0.1) (tstamp 7a879184-fad8-4feb-afb5-86fe8d34f1f7))
   (gr_line (start 121.6 133.35) (end 0 133.35) (layer "Edge.Cuts") (width 0.1) (tstamp bc3f6e1f-c81e-4889-865a-0e223a5a22e2))
+  (dimension (type aligned) (layer "User.1") (tstamp 544e0755-bdc6-4f0f-9c7e-9e7ff134ea49)
+    (pts (xy 5.08 3) (xy 0 3))
+    (height 7)
+    (gr_text "5.0800 mm" (at 2.54 -5.15) (layer "User.1") (tstamp b960b425-3db8-465d-a51c-191ba88204d8)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
 
 )
