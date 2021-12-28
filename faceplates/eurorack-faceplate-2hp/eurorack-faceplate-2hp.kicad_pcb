@@ -129,7 +129,7 @@
   (dimension (type aligned) (layer "Edge.Cuts") (tstamp a5a6c3aa-0f3b-48af-a6bd-7fa1c687c281)
     (pts (xy 0 3) (xy 7.5 3))
     (height -7.5)
-    (gr_text "7.5000 mm" (at 3.75 -5.65) (layer "Edge.Cuts") (tstamp 8d318414-9517-4202-915f-0b5ef6b7ee7b)
+    (gr_text "7.5000 mm" (at 3.75 -5.65) (layer "Edge.Cuts") (tstamp a5a6c3aa-0f3b-48af-a6bd-7fa1c687c281)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
