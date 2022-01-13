@@ -78,7 +78,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 61CB005A) (tstamp 8731a6d0-c776-470f-be2e-18b612fee82f)
-    (at 5.08 130.35)
+    (at 5.08 125.5)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -101,7 +101,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 61CB005A) (tstamp aa13fc65-f545-4672-9a25-25b0be4e162e)
-    (at 136.82 130.35)
+    (at 136.82 125.5)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -168,9 +168,9 @@
     (pad "" np_thru_hole oval locked (at 0 0) (size 7 3.2) (drill oval 7 3.2) (layers F&B.Cu *.Mask) (tstamp 8bb8ae6f-c2e7-453e-8bb9-bb8cfac7befc))
   )
 
-  (gr_line (start 141.9 0) (end 141.9 133.35) (layer "Edge.Cuts") (width 0.1) (tstamp 14be568d-2e52-4aed-b81b-dddc75cbdd07))
-  (gr_line (start 0 133.35) (end 0 0) (layer "Edge.Cuts") (width 0.1) (tstamp 159574a9-ecec-48bb-adb0-3dc9e65d4e79))
+  (gr_line (start 141.9 0) (end 141.9 128.5) (layer "Edge.Cuts") (width 0.1) (tstamp 14be568d-2e52-4aed-b81b-dddc75cbdd07))
+  (gr_line (start 0 128.5) (end 0 0) (layer "Edge.Cuts") (width 0.1) (tstamp 159574a9-ecec-48bb-adb0-3dc9e65d4e79))
   (gr_line (start 0 0) (end 141.9 0) (layer "Edge.Cuts") (width 0.1) (tstamp 7a879184-fad8-4feb-afb5-86fe8d34f1f7))
-  (gr_line (start 141.9 133.35) (end 0 133.35) (layer "Edge.Cuts") (width 0.1) (tstamp bc3f6e1f-c81e-4889-865a-0e223a5a22e2))
+  (gr_line (start 141.9 128.5) (end 0 128.5) (layer "Edge.Cuts") (width 0.1) (tstamp bc3f6e1f-c81e-4889-865a-0e223a5a22e2))
 
 )
