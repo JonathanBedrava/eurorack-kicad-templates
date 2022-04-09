@@ -76,13 +76,13 @@
 
   (net 0 "")
 
-  (gr_line (start 0.75 12.5) (end 0.75 120.85) (layer "Edge.Cuts") (width 0.1) (tstamp 1a09a7cb-78f5-4989-9bdf-8b4c4a8beb1d))
-  (gr_line (start 90.55 120.85) (end 90.55 12.5) (layer "Edge.Cuts") (width 0.1) (tstamp 2aef071e-f380-49c0-b1ba-860b2a4bd684))
-  (gr_line (start 0.75 120.85) (end 90.55 120.85) (layer "Edge.Cuts") (width 0.1) (tstamp 347e4106-0ad8-4579-9925-c65107fafee2))
-  (gr_line (start 0.75 12.5) (end 90.55 12.5) (layer "Edge.Cuts") (width 0.1) (tstamp c8cb28f7-4e0d-49a3-8b9b-fcff4adac1d4))
-  (gr_line (start 91.3 0) (end 91.3 128.5) (layer "User.1") (width 0.1) (tstamp 14be568d-2e52-4aed-b81b-dddc75cbdd07))
+  (gr_line (start 0.75 10) (end 0.75 118.5) (layer "Edge.Cuts") (width 0.1) (tstamp 1a09a7cb-78f5-4989-9bdf-8b4c4a8beb1d))
+  (gr_line (start 39.55 118.5) (end 39.55 10) (layer "Edge.Cuts") (width 0.1) (tstamp 2aef071e-f380-49c0-b1ba-860b2a4bd684))
+  (gr_line (start 0.75 118.5) (end 39.55 118.5) (layer "Edge.Cuts") (width 0.1) (tstamp 347e4106-0ad8-4579-9925-c65107fafee2))
+  (gr_line (start 0.75 10) (end 39.55 10) (layer "Edge.Cuts") (width 0.1) (tstamp c8cb28f7-4e0d-49a3-8b9b-fcff4adac1d4))
+  (gr_line (start 40.3 0) (end 40.3 128.5) (layer "User.1") (width 0.1) (tstamp 14be568d-2e52-4aed-b81b-dddc75cbdd07))
   (gr_line (start 0 128.5) (end 0 0) (layer "User.1") (width 0.1) (tstamp 159574a9-ecec-48bb-adb0-3dc9e65d4e79))
-  (gr_line (start 0 0) (end 91.3 0) (layer "User.1") (width 0.1) (tstamp 7a879184-fad8-4feb-afb5-86fe8d34f1f7))
-  (gr_line (start 91.3 128.5) (end 0 128.5) (layer "User.1") (width 0.1) (tstamp bc3f6e1f-c81e-4889-865a-0e223a5a22e2))
+  (gr_line (start 0 0) (end 40.3 0) (layer "User.1") (width 0.1) (tstamp 7a879184-fad8-4feb-afb5-86fe8d34f1f7))
+  (gr_line (start 40.3 128.5) (end 0 128.5) (layer "User.1") (width 0.1) (tstamp bc3f6e1f-c81e-4889-865a-0e223a5a22e2))
 
 )
